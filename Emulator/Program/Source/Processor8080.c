@@ -1,6 +1,5 @@
 #include "Processor8080.h"
 
-// Проверка на чётность
 int parity(int value)
 {
 	int bits_on = 0;
